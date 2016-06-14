@@ -1,0 +1,11 @@
+[19:07:35] [main/INFO]: Setting user: Player75
+[19:07:37] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:07:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[19:07:45] [Sound Library Loader/INFO]: Sound engine started
+[19:07:45] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[19:07:45] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[19:07:46] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[19:07:46] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:07:46] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:07:47] [Sound Library Loader/INFO]: Sound engine started
+[19:07:53] [Client thread/INFO]: Stopping!

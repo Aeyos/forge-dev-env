@@ -1,0 +1,67 @@
+****************************
+ Powered By MCP:             
+ http://modcoderpack.com/    
+ Searge, ProfMobius, Fesh0r, 
+ R4wk, ZeuX, IngisKahn, bspkrs
+ MCP Data version : unknown
+****************************
+:extractMcpData UP-TO-DATE
+:getVersionJson
+:extractUserDev UP-TO-DATE
+:genSrgs SKIPPED
+:extractNatives
+:getAssetsIndex
+:getAssets
+Current status: 3/686   0%
+Current status: 28/686   4%
+Current status: 58/686   8%
+Current status: 96/686   13%
+Current status: 125/686   18%
+Current status: 163/686   23%
+Current status: 203/686   29%
+Current status: 230/686   33%
+Current status: 259/686   37%
+Current status: 286/686   41%
+Current status: 326/686   47%
+Current status: 369/686   53%
+Current status: 396/686   57%
+Current status: 444/686   64%
+Current status: 476/686   69%
+Current status: 514/686   74%
+Current status: 538/686   78%
+Current status: 580/686   84%
+Current status: 614/686   89%
+Current status: 640/686   93%
+Current status: 678/686   98%
+:makeStart
+[ant:javac] warning: [options] bootstrap class path not set in conjunction with -source 1.6
+[ant:javac] 1 warning
+:downloadMcpTools SKIPPED
+:downloadClient SKIPPED
+:downloadServer SKIPPED
+:mergeJars SKIPPED
+:deobfuscateJar
+Applying SpecialSource...
+Applying Exceptor...
+:decompile
+:processSources
+Injecting fml files
+Applying fml patches
+Applying forge patches
+:remapJar
+:extractMinecraftSrc
+:recompMinecraftNote: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+:repackMinecraft
+:setupDecompWorkspace
+:eclipseClasspath
+:eclipseJdt
+:eclipseProject
+:eclipse
+
+BUILD SUCCESSFUL
+
+Total time: 5 mins 11.129 secs
